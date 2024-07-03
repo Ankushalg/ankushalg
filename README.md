@@ -107,7 +107,7 @@ Welcome to my GitHub profile! I'm an experienced Android Developer with a strong
 
 ---
 
-## Autonomous Robots
+## 🤖 Autonomous Robots
 
 ### [Adalyn](https://www.youtube.com/shorts/lX7k9-BYOMs) - *March 2024*
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
@@ -148,7 +148,7 @@ Welcome to my GitHub profile! I'm an experienced Android Developer with a strong
 - An automatic bot that fetches interesting topics from the internet, creates videos on them, and uploads them to YouTube within 10 minutes.
 - Achived 200+ organic subscribers withing first four weeks.
 
-## Projects
+## 📓 Projects
 
 ### [H5C - Telegram Explorer](https://keepitpro.web.app/#/A-2104151) - *June 2021* 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
@@ -297,10 +297,11 @@ Welcome to my GitHub profile! I'm an experienced Android Developer with a strong
 
 ## 🔗 Links
 
-- **Website**: [ankushalg.com](https://ankushalg.com)
-- **GitHub**: [Personal](https://github.com/ankushalg) | [Company](https://github.com/ankushkumar5)
-- **LinkedIn**: [ankushalg](https://linkedin.com/in/ankushalg)
-- **Email**: [ankush.kumar@ankushalg.com](mailto:ankush.kumar@ankushalg.com) | [ankushalg@gmail.com](mailto:ankushalg@gmail.com)
+- 🌍 **Website**: [ankushalg.com](https://ankushalg.com)
+- 🖥️ **Stack Overflow**: [ankushalg](https://stackoverflow.com/users/8097006/ankushalg)
+- 🌐 **LinkedIn**: [ankushalg](https://linkedin.com/in/ankushalg)
+- 🗄️ **GitHub**: [Personal](https://github.com/ankushalg) | [Company](https://github.com/ankushkumar5)
+- 📮 **Email**: [ankush.kumar@ankushalg.com](mailto:ankush.kumar@ankushalg.com) | [ankushalg@gmail.com](mailto:ankushalg@gmail.com)
 
 ---
 
