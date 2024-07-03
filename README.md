@@ -270,7 +270,7 @@ Welcome to my GitHub profile! I'm an experienced Android Developer with a strong
 [![9-patch](https://img.shields.io/badge/9--patch-FF9800?style=flat&logoColor=white)](https://developer.android.com/studio/write/draw9patch)
 - A screen customization app with features like round corners, watermarks, branding, effects, and a blue light filter.
 
-## Freelance Projects
+## 📔 Freelance Projects
 ### [Subscribe](https://keepitpro.web.app/#/A-2104159) - *April 2021*
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
 [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
