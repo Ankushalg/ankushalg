@@ -129,7 +129,7 @@ Welcome to my GitHub profile! I'm an experienced Android Developer with a strong
 [![Services](https://img.shields.io/badge/Services-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![RecyclerView](https://img.shields.io/badge/RecyclerView-4CAF50?style=flat&logo=android&logoColor=white)](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)
 [![Youtube Data API](https://img.shields.io/badge/Youtube%20Data%20API-FF0000?style=flat&logo=youtube&logoColor=white)](https://developers.google.com/youtube/v3)
-- An autonomous robot app that fetches music videos from YouTube, creates 8D Bass Boosted versions & new thumbnails, and uploads them back to YouTube.
+- An autonomous robot app that fetches music videos from YouTube, creates 8D Bass Boosted versions & new thumbnails and uploads them back to YouTube.
 - Achived 60+ organic subscribers withing 1st week.
 
 ### H\*\*\*\*\*5\*\*\*\*d Creator  - *July 2018*
@@ -145,8 +145,8 @@ Welcome to my GitHub profile! I'm an experienced Android Developer with a strong
 [![WebView](https://img.shields.io/badge/WebView-4CAF50?style=flat&logo=android&logoColor=white)](https://developer.android.com/reference/android/webkit/WebView)
 [![RecyclerView](https://img.shields.io/badge/RecyclerView-4CAF50?style=flat&logo=android&logoColor=white)](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)
 [![JS Injections](https://img.shields.io/badge/JS%20Injections-4CAF50?style=flat&logoColor=white)](https://www.example.com/)
-- An automatic bot that fetches interesting topics from the internet, creates videos on them, and uploads them to YouTube within 10 minutes.
-- Achived 200+ organic subscribers withing first four weeks.
+- An automatic bot that fetches interesting topics from the internet, creates videos on them and uploads them to YouTube within 10 minutes.
+- Achieved 200+ organic subscribers within the first four weeks.
 
 ## 📓 Projects
 
@@ -238,8 +238,8 @@ Welcome to my GitHub profile! I'm an experienced Android Developer with a strong
 [![Notifications](https://img.shields.io/badge/Notifications-4CAF50?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![AdBlocker](https://img.shields.io/badge/AdBlocker-FF9800?style=flat&logoColor=white)](https://www.example.com/)
 [![JS Injections](https://img.shields.io/badge/JS%20Injections-FF9800?style=flat&logoColor=white)](https://www.example.com/)
-- A music player app using JS Injection to play songs from YouTube Music & Youtube.
-- It has features like quick controls from notification OR Home Screen, off-screen playback, and more.
+- A music player app using JS Injection to play songs from YouTube Music & YouTube.
+- It has features like quick controls from notifications OR Home Screen, off-screen playback, and more.
 
 ### Alcypt - *December 2017*
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
