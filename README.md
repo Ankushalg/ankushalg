@@ -101,9 +101,6 @@ Welcome to my GitHub profile! I'm an experienced Android Developer with a strong
 [![Unity LevelPlay](https://img.shields.io/badge/Unity%20LevelPlay-000000?style=flat&logo=unity&logoColor=white)](https://unity.com/)
 [![Prebid Header Bidding](https://img.shields.io/badge/Prebid%20Header%20Bidding-FF9800?style=flat&logoColor=white)](https://prebid.org/)
 [![Open Bidding](https://img.shields.io/badge/Open%20Bidding-FF9800?style=flat&logoColor=white)](https://www.example.com/)
-- Developed multiple SDKs (in Kotlin) & optimizations resulting in 30% more revenue than Google AdMob.
-- Single-handedly crafted proprietary products like Ads SDKs, Fraud Detector, App Auditor, AdBlock Bypass, Google Ads on every platform, etc.
-- Lead App Monetization from ideation to deployment.
 
 ---
 
