@@ -4,6 +4,8 @@ Welcome to my GitHub profile! I'm an experienced Android Developer with a strong
 
 ---
 
+![ANKUSHALG](banner_small.png?raw=true)
+
 ## 🚀 Skills
 
 ![Android SDK](https://img.shields.io/badge/Android%20SDK-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![XML](https://img.shields.io/badge/XML-%23E34F26.svg?style=for-the-badge&logo=xml&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white) ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
