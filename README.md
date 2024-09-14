@@ -300,7 +300,7 @@ Welcome to my GitHub profile! I'm an experienced Android Developer with a strong
 - 🖥️ **Stack Overflow**: [ankushalg](https://stackoverflow.com/users/8097006/ankushalg)
 - 🌐 **LinkedIn**: [ankushalg](https://linkedin.com/in/ankushalg)
 - 🗄️ **GitHub**: [Personal](https://github.com/ankushalg) | [Company](https://github.com/ankushkumar5)
-- 📮 **Email**: [ankush.kumar@ankushalg.com](mailto:ankush.kumar@ankushalg.com) | [ankushalg@gmail.com](mailto:ankushalg@gmail.com)
+- 📮 **Email**: [me@ankushalg.com](mailto:me@ankushalg.com) | [ankushalg@gmail.com](mailto:ankushalg@gmail.com)
 
 ---
 
