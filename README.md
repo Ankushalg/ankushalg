@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm an experienced Android Developer with a strong
 
 ---
 
-![ANKUSHALG](banner_small.png?raw=true)
+![ANKUSHALG](banner.png?raw=true)
 
 ## 🚀 Skills
 
