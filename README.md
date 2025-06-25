@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm an experienced Android Developer with a strong
 
 ---
 
-![ANKUSHALG](banner.jpg?raw=true)
+![ANKUSHALG](banner_l.png?raw=true)
 
 ## 🚀 Skills
 
@@ -106,7 +106,22 @@ Welcome to my GitHub profile! I'm an experienced Android Developer with a strong
 
 ---
 
-## 🤖 Autonomous Robots
+## 🤖 AI & Autonomous Robots
+
+### [AiM – Ai Maker](https://github.com/Ankushalg/AiMaker) - *April 2025*
+[![No-Code](https://img.shields.io/badge/No--Code-9C27B0?style=flat\&logoColor=white)](https://www.example.com/)
+[![AI](https://img.shields.io/badge/AI-FF4081?style=flat\&logo=ai\&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)
+[![GenAI](https://img.shields.io/badge/GenAI-FF9800?style=flat\&logoColor=white)](https://www.example.com/)
+[![LLM](https://img.shields.io/badge/LLM-2196F3?style=flat\&logoColor=white)](https://www.example.com/)
+- Ai Maker is a revolutionary platform to build and share your own mini AI-powered apps — no code required.
+- From story generators to code explainers, just describe your idea and AiM brings it to life instantly.
+
+### Jules Mini - *April 2025*
+[![LLM](https://img.shields.io/badge/LLM-FF9800?style=flat\&logoColor=white)](https://www.example.com/)
+[![AI](https://img.shields.io/badge/AI-FF4081?style=flat\&logo=ai\&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)
+[![GenAI](https://img.shields.io/badge/GenAI-FF9800?style=flat\&logoColor=white)](https://www.example.com/)
+[![Performance](https://img.shields.io/badge/Fast-00BCD4?style=flat\&logo=bolt\&logoColor=white)](https://www.example.com/)
+- A replica of Google’s Jules with enhanced features, faster performance, and support for self-hosting.
 
 ### [Adalyn](https://www.youtube.com/shorts/lX7k9-BYOMs) - *March 2024*
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
@@ -145,7 +160,39 @@ Welcome to my GitHub profile! I'm an experienced Android Developer with a strong
 [![RecyclerView](https://img.shields.io/badge/RecyclerView-4CAF50?style=flat&logo=android&logoColor=white)](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)
 [![JS Injections](https://img.shields.io/badge/JS%20Injections-4CAF50?style=flat&logoColor=white)](https://www.example.com/)
 - An automatic bot that fetches interesting topics from the internet, creates videos on them and uploads them to YouTube within 10 minutes.
-- Achieved 200+ organic subscribers within the first four weeks.
+- Achieved 250+ organic subscribers within the first four weeks.
+
+## 📔 Freelance Projects
+
+### Crick18 - *July 2024*
+[![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat\&logo=react\&logoColor=61DAFB)](https://reactnative.dev/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat\&logo=android\&logoColor=white)](https://developer.android.com/)
+[![AdMob](https://img.shields.io/badge/AdMob-FF0000?style=flat\&logo=googleads\&logoColor=white)](https://admob.google.com/)
+[![Meta Audience Network](https://img.shields.io/badge/Meta%20Ads-1877F2?style=flat\&logo=meta\&logoColor=white)](https://www.facebook.com/audiencenetwork/)
+[![AdTech](https://img.shields.io/badge/Ad%20Tech-9E9E9E?style=flat\&logoColor=white)](https://www.example.com/)
+- Contract-based work to fix AdMob/Meta Ads issues and policy violations in a React Native Android app.
+
+### [Subscribe](https://keepitpro.web.app/#/A-2104159) - *April 2021*
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com/)
+- A public announcements app where people can post products for others to purchase.
+
+### [Disha](https://keepitpro.web.app/#/A-21041511) - *April 2020*
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat&logo=google-maps&logoColor=white)](https://developers.google.com/maps)
+[![Realtime Location Tracking](https://img.shields.io/badge/Realtime%20Location%20Tracking-4CAF50?style=flat&logoColor=white)](https://www.example.com/)
+- Vehicle tracking and expense monitoring app for transport service companies, featuring two apps: an Owner Portal and a Client App for Drivers.
+
+### [GoGreen](https://keepitpro.web.app/#/A-21041510) - *April 2020*
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat&logo=google-maps&logoColor=white)](https://developers.google.com/maps)
+[![Location](https://img.shields.io/badge/Location-4CAF50?style=flat&logoColor=white)](https://www.example.com/)
+- A dustbin locator app with features to add, remove, and update bin status.
 
 ## 📓 Projects
 
@@ -268,29 +315,6 @@ Welcome to my GitHub profile! I'm an experienced Android Developer with a strong
 [![Fragments](https://img.shields.io/badge/Fragments-4CAF50?style=flat&logo=android&logoColor=white)](https://developer.android.com/guide/fragments)
 [![9-patch](https://img.shields.io/badge/9--patch-FF9800?style=flat&logoColor=white)](https://developer.android.com/studio/write/draw9patch)
 - A screen customization app with features like round corners, watermarks, branding, effects, and a blue light filter.
-
-## 📔 Freelance Projects
-### [Subscribe](https://keepitpro.web.app/#/A-2104159) - *April 2021*
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
-[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com/)
-- A public announcements app where people can post products for others to purchase.
-
-### [Disha](https://keepitpro.web.app/#/A-21041511) - *April 2020*
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
-[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat&logo=google-maps&logoColor=white)](https://developers.google.com/maps)
-[![Realtime Location Tracking](https://img.shields.io/badge/Realtime%20Location%20Tracking-4CAF50?style=flat&logoColor=white)](https://www.example.com/)
-- Vehicle tracking and expense monitoring app for transport service companies, featuring two apps: an Owner Portal and a Client App for Drivers.
-
-### [GoGreen](https://keepitpro.web.app/#/A-21041510) - *April 2020*
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
-[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat&logo=google-maps&logoColor=white)](https://developers.google.com/maps)
-[![Location](https://img.shields.io/badge/Location-4CAF50?style=flat&logoColor=white)](https://www.example.com/)
-- A dustbin locator app with features to add, remove, and update bin status.
 
 ---
 
